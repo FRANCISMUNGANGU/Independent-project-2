@@ -1,0 +1,20 @@
+1. Challenge: Create a Person class in Python that has a name, age, and gender
+attribute. Add methods to the class for getting and setting(minus init method)
+these attributes, as well as a method for printing out the person's information in
+the format "Name: [name], Age: [age], Gender: [gender]".
+2. Have an example of polymorphism and inheritance using above class to create a
+voter object. The voter object should have a method that checks the age and
+validates whether the person can be allowed to vote or not. Handle the errors
+using a try and except method.
+Example Usage:
+person = Person()
+person.set_name("Alice")
+person.set_age(30)
+person.set_gender("female")
+person.print_info()
+2. Go through all Python concepts learnt from week 1 python to week 2 python and also the
+HTML.< CSS < BOOTSTRAP concepts.
+3. Read Data abstraction here : OOP
+https://www.geeksforgeeks.org/object-oriented-programming-in-python-set-2-data-hiding-and-ob
+ject-printing/
+1. Submit a github repository with above solution to josephbill00@gmail.com
